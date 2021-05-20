@@ -1,0 +1,15 @@
+# Configurações para qualquer ambiente de desenvolvimento
+root = true
+
+[*]
+# Identação do código
+indent_style = space
+indent_size = 2
+# Formato de quebra de linha
+end_of_line = lf
+# Tipo de caracteres suportados
+charset = utf-8
+# Apagar espaços desnecessários
+trim_trailing_whitespace = true
+# Inserir uma linha extra no final do código
+insert_final_newline = true
